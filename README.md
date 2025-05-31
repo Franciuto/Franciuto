@@ -60,7 +60,7 @@ Humble yet hungry, I’m a lifelong learner always adapting, always creating. Le
 |[Python4School](https://github.com/Franciuto/Python4School)||
 |[Assembly4School](https://github.com/Franciuto/Assembly4School)||
 
-<img src="https://raw.githubusercontent.com/Franciuto/Franciuto/main/card.svg"/>
+<img src="https://raw.githubusercontent.com/Franciuto/Franciuto/main/OCCard.svg"/>
 
 ## 📲 Get in touch
 [![Get in touch on Telegram](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/franciuto)
