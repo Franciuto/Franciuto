@@ -14,9 +14,13 @@ Humble yet hungry, I’m a lifelong learner always adapting, always creating. Le
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=for-the-badge)
 ![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-8312FA?style=for-the-badge&logo=bootstrap&logoColor=ffffff)
+![JavaScript](https://img.shields.io/badge/javascript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black)
 ![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![AssemblyScript](https://img.shields.io/badge/assembly-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![Jupyther](https://img.shields.io/badge/jupyter-d8ca9d?style=for-the-badge&logo=jupyter&logoColor=grey)
+
 
 ### 🛠️ **Development**  
 ![ArchLinux](https://img.shields.io/badge/Arch%20Linux-%230C8BDC?style=for-the-badge&logo=arch-linux&logoColor=white)
@@ -25,7 +29,10 @@ Humble yet hungry, I’m a lifelong learner always adapting, always creating. Le
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?logo=proxmox&logoColor=white&style=for-the-badge)
-![Sublime Text](https://img.shields.io/badge/Sublime_Text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important) [![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)](https://www.anaconda.com/)
+![Sublime Text](https://img.shields.io/badge/Sublime_Text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
+[![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)](https://www.anaconda.com/)
+![Tailscale](https://img.shields.io/badge/tailscale-232222?style=for-the-badge&logo=tailscale&logoColor=ffffff)
+![Cisco](https://img.shields.io/badge/cisco-00BCEB?style=for-the-badge&logo=cisco&logoColor=white)
 
 ### 🔐 **Cybersec Tools**  
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6F00?style=for-the-badge&logo=burp-suite&logoColor=white)
@@ -33,13 +40,15 @@ Humble yet hungry, I’m a lifelong learner always adapting, always creating. Le
 ![Wireguard](https://img.shields.io/badge/wireguard-%2388171A.svg?style=for-the-badge&logo=wireguard&logoColor=white)
 ![Ghidra](https://img.shields.io/badge/ghidra-000000?style=for-the-badge&logo=redragon&logoColor=white)
 ![CodeChef](https://img.shields.io/badge/CyberChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)
+![Hashcat](https://img.shields.io/badge/hashcat-black?style=for-the-badge&logo=hashcat&logoColor=white)
+![Tor Project](https://img.shields.io/badge/tor-333A41?style=for-the-badge&logo=torproject&logoColor=white)
 
 ### 🧑‍🎨 **Design & Multimedia**  
 ![DaVinci Resolve](https://img.shields.io/static/v1?style=for-the-badge&message=DaVinci+Resolve&color=233A51&logo=DaVinci+Resolve&logoColor=FFFFFF&label=)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)
 ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
 ![OBS Studio](https://img.shields.io/badge/OBS%20Studio-302E31?style=for-the-badge&logo=obsstudio&logoColor=white)
 ![Audacity](https://img.shields.io/badge/Audacity-000000?style=for-the-badge&logo=audacity&logoColor=white)
@@ -49,7 +58,7 @@ Humble yet hungry, I’m a lifelong learner always adapting, always creating. Le
 ![Thinkercad](https://img.shields.io/badge/Tinkercad-FF5722?style=for-the-badge&logo=tinkercad&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-101010?style=for-the-badge&logo=ollama&logoColor=white)
 ![RaspberryPI](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00878F?style=for-the-badge)
+![Arduino](https://img.shields.io/badge/arduino-00878F?style=for-the-badge&logo=arduino)
 ![QMK Firmware](https://img.shields.io/badge/QMK%20Firmware-000000?style=for-the-badge&logo=qmk&logoColor=white)
 ![ESP32](https://img.shields.io/badge/Platform-ESP32-00979D?style=for-the-badge&logo=espressif&logoColor=white)
 ![PlatformIO](https://img.shields.io/badge/PlatformIO-FF6A00?logo=platformio&logoColor=white&style=for-the-badge)
